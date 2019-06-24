@@ -1,4 +1,15 @@
 {
+    "name": "eston/event-dispatcher",
+    "description": "A testing package for Learning",
+    "homepage": "https://github.com/eston-p/event-dispatcher.git",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eston Pillay",
+            "email": "estonpillay@gmail.com",
+            "role": "Developer"
+        }
+    ],
     "require-dev": {
         "phpunit/phpunit": "^8.2"
     },
